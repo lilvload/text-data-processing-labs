@@ -1,0 +1,22 @@
+[
+  {
+    "text": "Could you help me to find an apartment, please?",
+    "entities": [[29, 38, "Service"]]
+  },
+  {
+    "text": "Yes please, I'd like to rent a house.",
+    "entities": [[24, 36, "Service"]]
+  },
+  {
+    "text": "Can you please find me a two-bedroom apartment?",
+    "entities": [[25, 46, "Service"]]
+  },
+  {
+    "text": "I need to schedule a visit to the property.",
+    "entities": [[10, 26, "Service"]]
+  },
+  {
+    "text": "Any other condos available in this area?",
+    "entities": [[4, 16, "Service"]]
+  }
+]
